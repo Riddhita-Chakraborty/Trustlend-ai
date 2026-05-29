@@ -1,0 +1,130 @@
+KNOWLEDGE BASE DOCUMENT 3
+SOURCE: RBI Key Fact Statement (KFS) Guidelines for Loans & Advances
+CIRCULAR: RBI/2023-24/__, dated April 15, 2024
+MANDATORY FROM: October 1, 2024 (all new retail and MSME term loans)
+APPLICABLE TO: All Regulated Entities (REs) — Commercial banks, Urban Co-operative Banks, NBFCs, HFCs, MFIs, SFBs
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+RBI KEY FACT STATEMENT (KFS) — MANDATORY LOAN DISCLOSURE FRAMEWORK
+=======================================================================
+
+WHAT IS A KEY FACT STATEMENT (KFS)?
+-------------------------------------
+A KFS is a standardised, mandatory summary document that lenders MUST provide to borrowers BEFORE the loan agreement is executed. It contains all essential loan information in simple language.
+
+PURPOSE: Eliminate information asymmetry. A borrower with a KFS can compare loans across lenders accurately and make an informed decision.
+
+MANDATORY FROM OCTOBER 1, 2024:
+All new retail and MSME term loans (including fresh loans to existing customers) must have a KFS. No exceptions.
+
+SCOPE: Applies to personal loans, home loans, auto loans, education loans, business loans for retail and MSME borrowers.
+EXCLUDED: Credit cards (separate framework applies).
+
+
+WHAT MUST A KFS CONTAIN — MANDATORY FIELDS
+--------------------------------------------
+1. LOAN IDENTIFICATION
+   - Loan type and product name
+   - Loan account number (if applicable)
+   - Lender name and branch
+
+2. LOAN AMOUNT AND TENURE
+   - Total loan amount sanctioned
+   - Total loan tenure (in months/years)
+   - Moratorium period, if any
+
+3. INTEREST RATE (COMPLETE DISCLOSURE)
+   - Nature of rate: Fixed / Floating / Hybrid
+   - If fixed: The rate in % per annum
+   - If floating: Benchmark rate used (Repo rate, MCLR, etc.) + spread
+   - Reset frequency for floating rates
+   - Floor and cap on interest rate, if applicable
+
+4. ANNUAL PERCENTAGE RATE (APR) — CRITICAL FIELD
+   - APR = Total annual cost of credit to borrower
+   - APR includes: Interest rate + ALL processing fees + ALL other charges
+   - APR includes: Third-party charges (insurance premiums, legal fees, valuation charges)
+   - APR must be expressed as a SINGLE, all-inclusive percentage
+   - CHARGES NOT IN KFS CANNOT BE LEVIED on the borrower without explicit consent
+
+5. EMI / REPAYMENT SCHEDULE
+   - EMI amount
+   - Total number of EMIs
+   - Amortization table showing breakup of principal and interest
+
+6. ALL FEES AND CHARGES (COMPLETE LIST — NO HIDDEN CHARGES ALLOWED)
+   - Processing fees (one-time)
+   - Documentation charges
+   - Stamp duty
+   - Insurance premium (if mandatory)
+   - Valuation/legal charges
+   - Prepayment/foreclosure charges
+   - Late payment charges / penal charges (must match Penal Charges circular)
+   - Any other charges whatsoever
+
+7. SECURITY / COLLATERAL
+   - Nature of collateral required
+   - Conditions for release of security
+
+8. COOLING-OFF / LOOK-UP PERIOD
+   - Minimum 1 day (Board of RE determines actual period)
+   - During this period, borrower can exit the loan without any penalty
+   - This is a borrower's RIGHT under the 2024 guidelines
+
+9. GRIEVANCE REDRESSAL
+   - Name and contact of designated Grievance Officer
+   - Escalation path and timeline
+   - RBI Ombudsman details
+
+
+CRITICAL RULES ABOUT THE KFS
+------------------------------
+RULE 1 — KFS VALIDITY PERIOD:
+The lender cannot change the terms stated in the KFS during its validity period. The borrower must have a stable, comparable offer to evaluate.
+
+RULE 2 — BORROWER ACKNOWLEDGEMENT:
+The borrower's written acknowledgement of having received and understood the KFS must be obtained BEFORE the loan agreement is signed.
+
+RULE 3 — KFS IN LOAN AGREEMENT:
+The KFS must be included as a SUMMARY BOX within the loan agreement itself. It cannot be a separate document that gets lost.
+
+RULE 4 — NO UNDISCLOSED CHARGES:
+Any fee, charge, or cost NOT mentioned in the KFS CANNOT be levied on the borrower without their explicit, specific consent. This is a strong consumer protection rule.
+
+RULE 5 — AMENDMENTS TO LOAN TERMS:
+After the loan is disbursed, if any terms change, the lender must get explicit borrower consent. Unilateral changes to loan terms are prohibited.
+
+RULE 6 — DIGITAL LENDING:
+All digital lending platforms are also covered. Digital lenders must provide KFS before disbursement.
+
+
+WHAT HAPPENS IF KFS IS MISSING OR INCOMPLETE?
+-----------------------------------------------
+- Non-compliance is subject to RBI supervisory action
+- RBI can impose fines, issue warnings, restrict lending activities
+- Borrower can challenge hidden charges not disclosed in KFS
+- Charges levied without KFS disclosure can be recovered by borrower
+
+=======================================================================
+SCORING IMPLICATIONS FOR LOAN DOCUMENT ANALYSIS
+=======================================================================
+
+SEVERE RED FLAGS (deduct 30-40 points):
+- No KFS or KFS summary box present in the loan document
+- APR not disclosed (only interest rate given, hiding fees)
+- Charges present in loan that are not listed in any schedule
+- "Subject to change without notice" language for charges
+
+MODERATE RED FLAGS (deduct 15-25 points):
+- Fees listed but APR not calculated/stated
+- Insurance premium listed as mandatory but not included in cost calculation
+- No grievance officer contact provided
+- Cooling-off period not mentioned
+
+GOOD SIGNS:
+- KFS box visible at start of loan agreement
+- APR clearly stated including all third-party charges
+- Complete fee schedule provided upfront
+- Cooling-off period and grievance mechanism stated
+- Explicit statement: "No charges other than listed above shall be levied"

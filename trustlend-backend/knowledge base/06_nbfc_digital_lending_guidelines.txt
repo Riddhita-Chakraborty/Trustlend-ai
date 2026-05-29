@@ -1,0 +1,151 @@
+KNOWLEDGE BASE DOCUMENT 6
+SOURCE: RBI Master Circular on Fair Practices Code for NBFCs; RBI Digital Lending Guidelines 2022; RBI Interest Rate on Advances Directions 2016
+CIRCULARS: DNBS(PD)CC No.232/03.10.042/2011-12; RBI/2022-23/111; DoR.STR.REC.68/21.01.001/2022-23
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+RBI FAIR PRACTICES CODE FOR NBFCs & DIGITAL LENDING GUIDELINES
+=======================================================================
+
+SECTION 1: NBFC-SPECIFIC FAIR PRACTICES CODE
+---------------------------------------------
+Applicable to: All Non-Banking Financial Companies (NBFCs) and Residuary Non-Banking Companies (RNBCs)
+
+1.1 LOAN SANCTION LETTER
+NBFCs must issue a loan sanction letter in vernacular language to the borrower that clearly states:
+- Amount of loan sanctioned
+- Annual interest rate applicable
+- All applicable fees (processing, documentation, etc.)
+- Method of application of interest (monthly reducing, annual, flat)
+- Repayment schedule
+
+RED FLAG: Loan documents that state "flat rate" interest instead of reducing balance rate are misleading. A 12% flat rate is equivalent to approximately 21-22% reducing balance rate.
+
+1.2 FLAT RATE vs. REDUCING BALANCE — CRITICAL DISTINCTION
+Flat Rate: Interest calculated on original principal throughout tenure.
+Reducing Balance: Interest calculated only on outstanding principal.
+
+Example:
+Loan: Rs. 1,00,000 | Tenure: 12 months
+12% FLAT rate → Total interest = Rs. 12,000. Effective annual rate ≈ 21.46% reducing balance
+12% REDUCING rate → Total interest = Rs. 6,620.
+
+If a loan states "12% p.a. flat" the true cost is nearly DOUBLE what it appears.
+
+1.3 NBFCs MUST DISCLOSE:
+- Interest rate charged (annual percentage)
+- Processing and other charges
+- Penal interest / charges for late payment
+- All terms and conditions of loan in borrower's vernacular language if requested
+
+1.4 NBFC CANNOT:
+- Charge interest from date of sanction if funds not yet disbursed
+- Capitalise interest on penal charges
+- Charge a higher rate than stated in loan agreement without prior written notice
+- Use muscle power or intimidation for loan recovery
+- Accept security that is disproportionate to loan amount without justification
+
+
+SECTION 2: RBI DIGITAL LENDING GUIDELINES (September 2022 + subsequent amendments)
+-------------------------------------------------------------------------------------
+Applicable to: All Regulated Entities (REs) and their Lending Service Providers (LSPs) / Digital Lending Apps (DLAs)
+
+2.1 KEY CUSTOMER PROTECTION RULES FOR DIGITAL LOANS
+
+DISBURSEMENT:
+- Loan amount must be disbursed DIRECTLY to the borrower's bank account
+- No pass-through of funds through the LSP/DLA (to prevent fund siphoning)
+- No deduction of fees/charges from disbursed amount without explicit consent
+
+KFS REQUIREMENT:
+- KFS must be provided BEFORE loan execution in digital loans
+- APR must be prominently disclosed
+- Cooling off period must be provided
+
+DATA PRIVACY:
+- Lending apps cannot access contacts, photos, media on borrower's device
+- Only camera, microphone, location, and identifier permissions are allowed (and only with purpose)
+- Data collected cannot be shared with third parties without explicit consent
+
+RED FLAG: Digital loan apps that request access to contacts, photos, or social media are violating RBI data privacy guidelines.
+
+2.2 COLLECTION AND RECOVERY — DIGITAL LENDING
+- Recovery agents must follow RBI's code of conduct
+- Borrower contact only between 8 AM and 7 PM
+- Demand for repayment must specify exact amount and reason
+- Threat, harassment, or shaming via social contacts is PROHIBITED
+- Calling/messaging borrower's family or employer is PROHIBITED
+
+2.3 GRIEVANCE REDRESSAL FOR DIGITAL LOANS
+- Each LSP must have a designated grievance redressal officer
+- Complaints must be resolved within 30 days
+- RBI Integrated Ombudsman Scheme applies to digital lenders
+
+
+SECTION 3: RBI INTEREST RATE ON ADVANCES DIRECTIONS 2016
+----------------------------------------------------------
+(Relevant to bank loans)
+
+3.1 PRICING FRAMEWORK
+Banks must link floating rate retail/MSME loan rates to:
+- External Benchmark: RBI Repo Rate (most common), T-Bill rates, or FBIL published rates
+- OR MCLR (for certain categories)
+The spread charged above the benchmark is determined by borrower's credit profile.
+
+3.2 SPREAD CANNOT CHANGE EXCEPT:
+- When borrower's credit profile changes (typically at annual review)
+- When RBI regulations explicitly permit
+
+3.3 PREPAYMENT CHARGES — KEY RULES
+For floating rate loans to INDIVIDUAL BORROWERS:
+- Banks CANNOT charge prepayment penalties (prohibited by RBI)
+
+For fixed rate loans to individual borrowers:
+- Banks MAY charge reasonable prepayment penalty
+
+For NBFC loans to individual borrowers:
+- Rules vary; NBFCs can set their own policy but must disclose it upfront
+
+RBI RULE: For floating rate loans taken by individuals — any prepayment penalty is a RED FLAG and potential RBI violation.
+
+
+SECTION 4: LOAN RECOVERY PRACTICES — CODE OF CONDUCT
+------------------------------------------------------
+RBI has prescribed a code of conduct for loan recovery. Key rules:
+
+MUST DO:
+- Provide 60 days notice before initiating recovery proceedings on secured loans (varies by loan type)
+- Show original documents and authorisation before visiting borrower
+- Conduct recovery only between 7 AM and 7 PM
+- Inform borrower of all dues, charges, and outstanding amount in writing
+
+MUST NOT DO:
+- Use abusive or threatening language
+- Contact family members, employers, or friends of borrower
+- Post or publicly display default information (name shaming)
+- Threaten legal action that has not actually been initiated
+- Misrepresent themselves as court officials or government agents
+- Charge for recovery visits without disclosure in loan agreement
+
+RED FLAG CLAUSES IN DOCUMENTS:
+- "Borrower authorises lender to contact any person known to borrower for recovery"
+- "Cost of recovery shall be borne by borrower" (with no cap specified)
+- "Lender may take physical possession without court order" (may be questionable for certain loan types)
+
+=======================================================================
+SCORING IMPLICATIONS
+=======================================================================
+
+SEVERE RED FLAGS:
+- Flat rate stated without equivalent reducing balance rate disclosed: -20 points
+- Digital loan with device data access permissions: -15 points
+- Prepayment penalty on individual floating rate loan: -15 points (RBI violation)
+- Recovery agent can contact friends/family: -15 points
+
+MODERATE RED FLAGS:
+- No vernacular language option mentioned: -5 points
+- No direct disbursement to borrower account (goes through intermediary): -15 points
+- No RBI Ombudsman escalation path mentioned: -5 points
+
+CLARIFICATIONS:
+When a loan states "12% flat" — flag it and note that the effective reducing balance rate is approximately 21-22%, and scoring should be based on the effective rate.

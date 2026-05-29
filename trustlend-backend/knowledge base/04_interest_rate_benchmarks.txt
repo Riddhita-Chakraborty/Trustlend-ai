@@ -1,0 +1,165 @@
+KNOWLEDGE BASE DOCUMENT 4
+SOURCE: RBI Monetary Policy Statements, Bank Rate Disclosures, BankBazaar, Finnovate Research
+REFERENCE PERIOD: 2024–2026
+PURPOSE: Benchmark interest rates to assess whether a loan's stated rate is fair, high, or predatory
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+INDIA INTEREST RATE BENCHMARKS FOR LOAN FAIRNESS ASSESSMENT
+=======================================================================
+
+SECTION 1: RBI POLICY RATES (AS OF APRIL-MAY 2026)
+-----------------------------------------------------
+Repo Rate (RBI):                  5.25% per annum
+Reverse Repo Rate:                Always lower than repo rate (approx. 4.75-5.00%)
+Marginal Standing Facility (MSF): 5.50% per annum
+Bank Rate:                        Higher than repo rate
+Cash Reserve Ratio (CRR):        3.00% (cut cumulatively 100 bps through FY25-26)
+
+NOTE: The RBI cut the repo rate by a cumulative 125 basis points across FY2025-26, bringing it from 6.50% (its level from Feb 2023 through Oct 2024) down to 5.25% as of April 2026.
+
+
+SECTION 2: MCLR (MARGINAL COST OF FUNDS BASED LENDING RATE)
+-------------------------------------------------------------
+MCLR is the MINIMUM rate below which banks cannot lend (with certain exceptions).
+Introduced by RBI in April 2016. Banks set MCLR based on their own cost of funds.
+Most consumer loans (home, auto, personal) are priced at MCLR + spread.
+
+TYPICAL MCLR RANGE (Public Sector Banks, 2024-2026):
+- Overnight MCLR:     ~8.10% – 8.25%
+- 1-Month MCLR:       ~8.20% – 8.40%
+- 3-Month MCLR:       ~8.35% – 8.60%
+- 6-Month MCLR:       ~8.65% – 8.90%
+- 1-Year MCLR:        ~8.75% – 9.10%  ← MOST COMMON BENCHMARK FOR CONSUMER LOANS
+- 2-Year MCLR:        ~8.90% – 9.10%
+- 3-Year MCLR:        ~9.00% – 9.20%
+
+SBI 1-Year MCLR (Oct 2024): 8.95%
+SBI Base Rate (Sep 2024): 10.40%
+SBI BPLR (Benchmark Prime Lending Rate): 15.15% p.a.
+
+KEY POINT: The 1-year MCLR (~8.95% for SBI) is the benchmark most auto, home, and personal loans are priced against.
+
+
+SECTION 3: EXTERNAL BENCHMARK LENDING RATE (EBLR)
+---------------------------------------------------
+Since October 2019, RBI mandated that floating rate loans to retail and MSME borrowers be linked to external benchmarks (not just MCLR).
+
+Most common external benchmark: RBI Repo Rate.
+
+EBLR Formula: Repo Rate + Bank's Spread
+SBI EBLR (2024): 6.50% (repo) + 2.65% (spread) = 9.15%
+
+Home loans linked to EBLR reprice within 1-3 months of RBI rate changes.
+
+
+SECTION 4: TYPICAL INTEREST RATES BY LOAN TYPE (2024-2026)
+------------------------------------------------------------
+
+HOME LOANS:
+- Typical range: 8.50% – 10.50% p.a.
+- Best/prime borrowers: ~8.50% – 9.00%
+- Average: ~9.00% – 9.65%
+- HIGH RISK THRESHOLD: Above 12% for home loans is a red flag
+
+PERSONAL LOANS (Unsecured):
+- PSU Banks: 10.50% – 13.50% p.a.
+- Private Banks: 11.00% – 15.00% p.a.
+- NBFCs: 14.00% – 22.00% p.a.
+- CONCERNING RANGE: 22% – 30% p.a. (borderline predatory)
+- HIGH RISK THRESHOLD: Above 30% p.a. is predatory for most segments
+
+AUTO / VEHICLE LOANS:
+- Typical range: 9.50% – 12.00% p.a.
+- CONCERNING RANGE: Above 15% for auto loans
+
+EDUCATION LOANS:
+- Typical range: 8.50% – 11.00% p.a.
+
+MICROFINANCE / SMALL LOANS (NBFC-MFIs):
+- RBI-regulated cap: ~26.5% (approximately — RBI sets margin cap)
+- Typical: 20% – 26%
+- Above cap is a compliance violation
+
+GOLD LOANS:
+- Typical range: 9.50% – 14.00% p.a.
+
+MSME / BUSINESS LOANS:
+- PSU Banks: 9.00% – 12.00% p.a.
+- NBFCs: 12.00% – 24.00% p.a.
+
+PAYDAY / SHORT-TERM LOANS (Digital):
+- Often 24% – 50%+ p.a. (highly concerning)
+- These frequently involve hidden charges that push effective rate higher
+
+
+SECTION 5: INTEREST RATE FAIRNESS THRESHOLDS (RULE OF THUMB)
+--------------------------------------------------------------
+For a given loan type, the fairness assessment can use these bands:
+
+EXCELLENT (Fair):
+- Home loan: ≤ 9.50%
+- Personal loan: ≤ 13%
+- MSME loan: ≤ 12%
+
+ACCEPTABLE:
+- Home loan: 9.50% – 11%
+- Personal loan: 13% – 18%
+- MSME loan: 12% – 16%
+
+CONCERNING (Needs Review):
+- Home loan: 11% – 14%
+- Personal loan: 18% – 24%
+- MSME loan: 16% – 22%
+
+HIGH RISK / POTENTIALLY UNFAIR:
+- Home loan: > 14%
+- Personal loan: > 24%
+- MSME loan: > 22%
+
+PREDATORY:
+- ANY loan type: > 36% p.a. effective rate (APR including all charges)
+- Hidden charges pushing effective rate above 40%+ p.a.
+
+
+SECTION 6: FLOATING VS FIXED RATE RULES
+-----------------------------------------
+RBI mandates for floating rate retail/MSME loans (since Oct 2019):
+- Must be linked to external benchmark (repo rate, MCLR, etc.)
+- Cannot use internal benchmarks alone for these segments
+- Rate changes must be clearly communicated to borrower
+- Borrower has right to switch to fixed rate at reset date (with reasonable fee)
+
+UNFAIR FLOATING RATE CLAUSES:
+- "Rate may be revised at lender's discretion without notice"
+- No mention of what benchmark the floating rate is linked to
+- No mention of reset frequency
+- No floor/cap mentioned for rate movement
+
+=======================================================================
+SCORING IMPLICATIONS FOR LOAN DOCUMENT ANALYSIS
+=======================================================================
+
+Use these benchmarks to calibrate interest rate fairness score:
+
+PERSONAL LOAN SCORING:
+- Rate ≤ 14%:   No deduction (fair range)
+- Rate 14-20%:  Deduct 5 points (slightly high)
+- Rate 20-28%:  Deduct 20 points (high)
+- Rate > 28%:   Deduct 40 points (predatory range)
+
+HOME LOAN SCORING:
+- Rate ≤ 10%:   No deduction
+- Rate 10-13%:  Deduct 10 points
+- Rate 13-16%:  Deduct 20 points
+- Rate > 16%:   Deduct 40 points
+
+GENERAL UNSECURED LOAN / UNCLEAR TYPE:
+- Rate ≤ 15%:   No deduction
+- Rate 15-20%:  Deduct 10 points
+- Rate 20-30%:  Deduct 25 points
+- Rate > 30%:   Deduct 40 points
+
+FLOATING RATE ISSUES:
+- No benchmark specified: Deduct 15 points
+- "Lender's discretion" language: Deduct 20 points

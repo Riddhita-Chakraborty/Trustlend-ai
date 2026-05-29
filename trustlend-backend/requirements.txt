@@ -10,3 +10,7 @@ marshmallow
 openpyxl
 requests
 gunicorn
+chromadb
+sentence-transformers
+langchain
+langchain-community

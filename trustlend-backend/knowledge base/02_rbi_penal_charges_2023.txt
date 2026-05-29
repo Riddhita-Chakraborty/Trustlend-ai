@@ -1,0 +1,115 @@
+KNOWLEDGE BASE DOCUMENT 2
+SOURCE: RBI Fair Lending Practice — Penal Charges in Loan Accounts
+CIRCULAR: RBI/2023-24/53, DoR.MCS.REC.28/01.01.001/2023-24, dated August 18, 2023
+EFFECTIVE DATE: January 1, 2024 (new loans); April 1, 2024 – June 30, 2024 (existing loans)
+APPLICABLE TO: All Commercial Banks, Primary Urban Co-operative Banks, NBFCs (including HFCs), All India Financial Institutions
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+RBI CIRCULAR: FAIR LENDING PRACTICE — PENAL CHARGES IN LOAN ACCOUNTS
+=======================================================================
+
+BACKGROUND AND PURPOSE
+-----------------------
+The RBI observed widespread misuse of penal interest by lenders:
+- Banks were using penal charges as a REVENUE ENHANCEMENT TOOL rather than as a deterrent for credit discipline
+- Penal interest was being added ON TOP OF the normal interest rate, causing compounding
+- Practices were inconsistent and non-transparent across institutions
+- This was causing customer grievances and was not in the spirit of fairness
+
+This circular FUNDAMENTALLY CHANGES how penalties must be structured in all new Indian loan agreements effective from 2024.
+
+
+KEY RULE 1: PENAL INTEREST IS ABOLISHED — REPLACED BY PENAL CHARGES
+----------------------------------------------------------------------
+OLD PRACTICE (UNFAIR): Lenders added an extra interest rate (e.g., "2% penal interest per month") ON TOP of the normal contracted interest rate for defaults.
+
+NEW RULE (FAIR): Penalty for default must be levied as a FLAT "PENAL CHARGE" — not as an additional interest rate percentage.
+
+CRITICAL DISTINCTION:
+- Penal charges are a fixed charge on the defaulted/overdue amount only
+- Penal charges CANNOT be compounded (no interest on the penal charge itself)
+- Normal contracted interest continues to accrue on the outstanding loan balance
+- Penal charges apply ONLY on the amount that is actually overdue/in default
+
+RED FLAG IN LOAN DOCUMENTS: Any clause that says "X% per month penal interest will be added to the rate of interest" OR "interest rate will increase by X% on default" is likely NON-COMPLIANT with RBI 2023 circular.
+
+
+KEY RULE 2: PENAL CHARGES MUST BE REASONABLE AND PROPORTIONATE
+----------------------------------------------------------------
+The RBI explicitly states:
+- Penal charges must be REASONABLE and JUSTIFIED
+- Charges must be PROPORTIONATE to the nature and severity of the breach
+- Penal charges must NOT be used as a revenue tool
+- Different categories of loans may have different penal charge structures
+
+WHAT IS UNREASONABLE (RED FLAGS):
+- Flat penal charges that are a large percentage of the loan amount (e.g., 5%+ of total outstanding)
+- Penal charges triggered by minor technical defaults (e.g., delay of 1 day)
+- Penal charges with no cap
+- Charges that reset monthly and accumulate rapidly
+
+
+KEY RULE 3: MANDATORY DISCLOSURE OF PENAL CHARGES
+---------------------------------------------------
+ALL of the following must be disclosed to borrowers:
+1. Penal charges must be disclosed in the LOAN AGREEMENT itself
+2. Penal charges must be disclosed in the Key Fact Statement (KFS)
+3. Penal charges must be listed on the lender's WEBSITE under "Interest Rates and Service Charges"
+4. Whenever a payment reminder is sent, penal charges applicable must be communicated
+
+RED FLAG: If penal charges are NOT listed in the loan agreement, KFS, or are buried in fine print — this is a disclosure violation.
+
+
+KEY RULE 4: NO CAPITALIZATION OF PENAL CHARGES
+------------------------------------------------
+Penal charges CANNOT be capitalized. This means:
+- Unpaid penal charges cannot be added to the loan principal
+- No further interest can accrue ON the penal charges
+- Only the normal contracted interest continues on the outstanding balance
+- Penal charges accrue only on the defaulted portion, not on the entire outstanding loan
+
+EXAMPLE OF UNFAIR PRACTICE (NOW PROHIBITED):
+Loan outstanding: Rs. 10,00,000
+Defaulted EMI: Rs. 25,000
+Wrong (old) way: Add 2% penal interest on Rs. 10,00,000 = Rs. 20,000/month penal interest (compounding monthly)
+Correct (new) way: Fixed penal charge on Rs. 25,000 defaulted amount only, no compounding
+
+
+KEY RULE 5: PRIOR COMMUNICATION REQUIREMENT
+--------------------------------------------
+Before levying penal charges, lenders must:
+- Send a payment reminder
+- Communicate the applicable penal charges in that reminder
+- Allow a reasonable time for borrower to rectify the default
+
+
+WHAT THESE RULES DO NOT COVER
+-------------------------------
+These penal charge rules do NOT apply to:
+- Credit cards (governed by separate product-specific directions)
+- External Commercial Borrowings (ECBs)
+- Trade Credits
+- Structured Obligations
+
+=======================================================================
+SCORING IMPLICATIONS FOR LOAN DOCUMENT ANALYSIS
+=======================================================================
+
+SEVERE RED FLAGS (deduct 25-40 points from fairness score):
+- Penal interest stated as "X% per month added to interest rate" (old-style, now prohibited)
+- Compounding of penal interest mentioned
+- Penal charges applicable on ENTIRE outstanding balance, not just defaulted amount
+- No disclosure of penal charges in loan agreement
+
+MODERATE RED FLAGS (deduct 10-20 points):
+- Penal charges disclosed only in fine print / schedule, not highlighted
+- Penal charges appear disproportionately high (e.g., 5%+ per month on overdue amount)
+- No mention of when penal charges will be waived/stopped
+- Multiple overlapping penalty triggers
+
+GOOD SIGNS:
+- Penal charges stated as flat amounts per instance or per month on overdue only
+- Penal charges clearly tabulated in a schedule
+- Explicit statement that charges are not compounded
+- Charges proportionate (e.g., Rs. 500-2000 per default event)

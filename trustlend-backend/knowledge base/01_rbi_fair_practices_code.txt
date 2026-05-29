@@ -1,0 +1,126 @@
+KNOWLEDGE BASE DOCUMENT 1
+SOURCE: RBI Guidelines on Fair Practices Code for Lenders
+CIRCULAR: DBOD.Leg.No.BC.104/09.07.007/2002-03, dated May 5, 2003
+APPLICABLE TO: All Scheduled Commercial Banks and All India Financial Institutions
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+RBI FAIR PRACTICES CODE FOR LENDERS — FULL GUIDELINES
+=======================================================================
+
+SECTION 1: APPLICATIONS FOR LOANS AND THEIR PROCESSING
+-------------------------------------------------------
+1.1 Loan application forms must be comprehensive and include:
+    - All fees and charges payable for processing
+    - Whether fees are refundable if application is rejected
+    - Pre-payment options available to the borrower
+    - Any other matter affecting the borrower's interest
+    - Sufficient information to allow borrower to compare with other banks
+
+1.2 Banks and financial institutions must provide written acknowledgement for ALL loan applications received.
+
+1.3 The time frame within which loan applications up to Rs. 2 lakhs will be disposed of must be clearly indicated in the acknowledgement letter.
+
+1.4 Lenders must verify loan applications within a reasonable period of time. If additional documents are required, borrowers must be informed immediately.
+
+1.5 For small borrowers seeking loans up to Rs. 2 lakhs: Lenders MUST communicate in writing the main reason(s) for rejection of loan applications within stipulated time.
+
+RED FLAG: If a lender does not provide written acknowledgement, does not state processing timelines, or does not give reasons for rejection — this violates RBI Fair Practices Code.
+
+
+SECTION 2: LOAN APPRAISAL AND TERMS/CONDITIONS
+-----------------------------------------------
+2.1 Lenders must ensure proper assessment of credit applications. They shall NOT use margin and security stipulation as a substitute for due diligence on creditworthiness.
+
+2.2 The lender MUST convey to the borrower:
+    - The credit limit sanctioned
+    - ALL terms and conditions thereof
+    - The borrower's written acceptance of these terms must be on record
+
+2.3 MANDATORY: All terms, conditions, and caveats governing credit facilities MUST be reduced in writing and duly certified by an authorised official.
+
+2.4 MANDATORY: A copy of the loan agreement AND copies of all enclosures quoted in the loan agreement MUST be furnished to the borrower.
+
+2.5 The loan agreement must clearly stipulate credit facilities that are solely at the lender's discretion — including approval/disallowance of drawings beyond sanctioned limits.
+
+RED FLAG: If borrower is not given a complete copy of the loan agreement with all annexures — this violates RBI Fair Practices Code.
+
+
+SECTION 3: DISBURSEMENT OF LOANS INCLUDING CHANGES IN TERMS AND CONDITIONS
+---------------------------------------------------------------------------
+3.1 Lenders must ensure timely disbursement of loans in conformity with agreed terms and conditions.
+
+3.2 Lenders MUST give advance notice of any change in terms and conditions including:
+    - Interest rates
+    - Service charges
+    - Any other fees
+
+3.3 CRITICAL RULE: Changes in interest rates and charges must be effected only PROSPECTIVELY — meaning a lender cannot retroactively apply higher rates to past periods.
+
+3.4 Interest should be charged only from the date of ACTUAL disbursement of funds, not from:
+    - Date of sanction of loan
+    - Date of execution of loan agreement
+    - Date the cheque was written (if funds were handed over later)
+
+RED FLAG: Charging interest from sanction date rather than disbursement date is an UNFAIR PRACTICE identified by RBI.
+
+
+SECTION 4: POST DISBURSEMENT SUPERVISION
+-----------------------------------------
+4.1 Post-disbursement supervision should be constructive — particularly for loans up to Rs. 2 lakhs.
+
+4.2 Before recalling a loan, accelerating payment, or seeking additional securities, lenders MUST give advance notice to borrowers as specified in the loan agreement, or a reasonable period if no such condition exists.
+
+4.3 Lenders MUST release ALL securities on full repayment of the loan, subject only to any legitimate right of lien for other claims.
+
+4.4 If right of set-off is to be exercised, borrowers must be given full notice with complete particulars.
+
+RED FLAG: Lender demanding additional collateral mid-loan without notice, or refusing to release securities after full repayment, violates this code.
+
+
+SECTION 5: GENERAL FAIR PRACTICE PROVISIONS
+--------------------------------------------
+5.1 NON-INTERFERENCE: Lenders must not interfere in the affairs of borrowers except as provided in the loan agreement, unless new undisclosed information has emerged.
+
+5.2 NON-DISCRIMINATION: Lenders must NOT discriminate on grounds of sex, caste, or religion in lending decisions.
+
+5.3 RECOVERY PRACTICES: Lenders must NOT resort to:
+    - Persistently bothering borrowers at odd hours
+    - Use of muscle power or intimidation for recovery
+    - Any form of harassment during recovery
+
+5.4 TRANSFER OF ACCOUNTS: If a borrower requests transfer of their loan account to another bank, the lender's consent or objection must be communicated within 21 days.
+
+5.5 Grievance redressal mechanism must be in place. All disputes must be heard and disposed of at least at the next higher level in the organisation.
+
+RED FLAG: Any harassment during recovery, refusal to allow account transfer without reason, or absence of grievance redressal mechanism is a violation.
+
+
+SECTION 6: BOARD RESPONSIBILITY
+---------------------------------
+6.1 The Board of Directors must lay down a clear policy for Fair Practices Code.
+6.2 The Board must lay down appropriate grievance redressal mechanism.
+6.3 Periodic compliance review of the Fair Practices Code must be submitted to the Board.
+
+=======================================================================
+SCORING IMPLICATIONS FOR LOAN DOCUMENT ANALYSIS
+=======================================================================
+
+INSTANT RED FLAGS (Severe — deduct heavily from fairness score):
+- Interest charged from sanction date, not disbursement date
+- No written acknowledgement process described
+- No copy of agreement promised to borrower
+- Retroactive changes to interest rates mentioned
+- Aggressive recovery/intimidation clauses
+
+MODERATE CONCERNS (deduct moderately):
+- No grievance redressal mechanism described
+- No pre-payment information provided
+- Vague or absent timeline disclosures
+- No written rejection reason policy
+
+GOOD SIGNS (neutral or positive for fairness):
+- Clear timeline for loan processing stated
+- Written acknowledgement process described
+- Pre-payment options clearly disclosed
+- Grievance officer contact provided

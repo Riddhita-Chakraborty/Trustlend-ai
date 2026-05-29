@@ -1,0 +1,182 @@
+KNOWLEDGE BASE DOCUMENT 8
+SOURCE: Synthesized from all RBI circulars and fair lending guidelines compiled in this knowledge base
+PURPOSE: Quick-reference checklist and scoring guide for loan document analysis AI
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+LOAN DOCUMENT ANALYSIS — MASTER SCORING CHECKLIST
+=======================================================================
+
+HOW TO USE:
+- When analysing a loan document, check for each item below
+- Assign point deductions as indicated
+- Start from 100, deduct for each red flag found
+- Minimum score: 0
+
+=======================================================================
+CATEGORY 1: INTEREST RATE (Max deduction: 40 points)
+=======================================================================
+[ ] Is the interest rate stated clearly in % per annum?
+    NO: -5 points
+
+[ ] Is the method stated (flat rate or reducing balance)?
+    NOT STATED: Assume flat rate and flag — effective rate is nearly double
+    FLAT RATE (undisclosed): -10 points additional
+
+[ ] Interest rate against Indian benchmarks:
+    PERSONAL LOAN:
+    ≤14%:   0 points
+    14-20%: -5 points
+    20-28%: -20 points
+    >28%:   -40 points
+
+    HOME LOAN:
+    ≤10%:   0 points
+    10-13%: -10 points
+    13-16%: -20 points
+    >16%:   -40 points
+
+    GENERAL/UNKNOWN LOAN TYPE:
+    ≤15%:   0 points
+    15-20%: -10 points
+    20-30%: -25 points
+    >30%:   -40 points
+
+[ ] For floating rate: Is benchmark specified (MCLR/Repo rate)?
+    NOT SPECIFIED: -20 points
+    SPECIFIED: 0 points
+
+[ ] "Rate at lender's discretion" language present?
+    YES: -20 points
+
+=======================================================================
+CATEGORY 2: FEES AND CHARGES (Max deduction: 35 points)
+=======================================================================
+[ ] Processing fee:
+    Not disclosed: -10 points
+    Disclosed and ≤2%: 0 points
+    Disclosed and 2-4%: -5 points
+    >4% of loan: -15 points
+
+[ ] APR (Annual Percentage Rate) disclosed?
+    NO APR stated: -15 points
+    APR stated including all charges: 0 points
+
+[ ] KFS summary box present at start of document?
+    NO KFS: -20 points
+    KFS present with all fields: 0 points
+
+[ ] Hidden or undisclosed charges suspected?
+    YES ("including but not limited to", "subject to charges"): -10 points
+
+[ ] Third-party charges (insurance, legal, valuation) included in APR?
+    NOT INCLUDED despite being mandatory: -10 points
+
+=======================================================================
+CATEGORY 3: PENAL CHARGES (Max deduction: 25 points)
+=======================================================================
+[ ] Old-style "penal interest added to rate" (non-compliant post Jan 2024)?
+    YES: -25 points (RBI circular violation)
+
+[ ] Penal charges applied on entire outstanding balance (not just overdue)?
+    YES: -15 points
+
+[ ] Penal charges are compounded?
+    YES: -20 points (RBI violation)
+
+[ ] Penal charges disclosed clearly in loan document?
+    NOT DISCLOSED: -10 points
+
+[ ] Penal charges proportionate?
+    >5% per month on overdue: -15 points
+
+=======================================================================
+CATEGORY 4: RISKY CLAUSES (Max deduction: 60 points)
+=======================================================================
+[ ] Mandatory arbitration clause removing court/consumer forum access?
+    YES: -15 points
+
+[ ] Borrower waives fundamental rights (notice, objection, legal recourse)?
+    YES: -15 to -20 points
+
+[ ] Unilateral acceleration clause (lender can demand full repayment at will)?
+    YES: -15 points
+
+[ ] Cross-default clause present?
+    YES: -10 points
+
+[ ] Balloon payment (undisclosed or disproportionate)?
+    YES: -15 points
+
+[ ] Negative amortization terms?
+    YES: -25 points
+
+[ ] Unilateral modification of loan terms by lender?
+    YES: -10 points
+
+[ ] Prepayment penalty on individual floating rate loan?
+    YES: -15 points (RBI violation)
+
+[ ] Excessive prepayment penalty (>3% or applies beyond year 3)?
+    YES: -10 points
+
+[ ] Forced insurance not included in APR?
+    YES: -15 points
+
+[ ] Recovery via contact to family/employer authorised in document?
+    YES: -15 points
+
+=======================================================================
+CATEGORY 5: DISCLOSURE AND TRANSPARENCY (Max deduction: 30 points)
+=======================================================================
+[ ] Borrower receives full copy of agreement?
+    NOT STATED / DENIED: -10 points
+
+[ ] All terms in writing and certified?
+    NOT MENTIONED: -5 points
+
+[ ] Changes to terms require advance notice to borrower?
+    NOT MENTIONED: -10 points
+
+[ ] Security release timeline on full repayment specified?
+    NOT SPECIFIED: -5 points
+
+[ ] Grievance redressal mechanism with contact provided?
+    NOT PROVIDED: -10 points
+
+[ ] RBI Ombudsman escalation path mentioned?
+    NOT MENTIONED: -5 points
+
+[ ] Interest charged from actual disbursement date (not sanction date)?
+    SANCTION DATE USED: -15 points (RBI violation)
+
+=======================================================================
+VERDICT TABLE
+=======================================================================
+SCORE 80-100: FAIR
+    Document appears compliant with RBI guidelines.
+    No major red flags detected.
+    Borrower can proceed with reasonable confidence.
+
+SCORE 50-79: NEEDS REVIEW
+    Some concerning clauses or disclosure gaps detected.
+    Recommend borrower seek legal/financial advice before signing.
+    Ask lender to clarify flagged items.
+
+SCORE 0-49: UNFAIR
+    Multiple severe red flags detected.
+    Potential RBI guideline violations.
+    High risk of hidden costs or loss of borrower rights.
+    STRONGLY recommend legal review and/or complaint to RBI Ombudsman.
+
+=======================================================================
+COMMON LOAN TYPES IN INDIA — QUICK CONTEXT
+=======================================================================
+Home Loan:       Secured. Typically 15-30 years. EBLR/MCLR linked. Floating rate = no prepayment penalty.
+Personal Loan:   Unsecured. 1-5 years. Higher rates justified. Watch hidden charges.
+Auto Loan:       Secured (vehicle). 3-7 years. Watch for insurance bundling.
+Gold Loan:       Secured (gold). 3-12 months. Very short term, watch for balloon payment.
+Education Loan:  Long tenure, moratorium period common. Watch for unclear interest terms during moratorium.
+MSME Loan:       Business purpose. Can be secured or unsecured. Floating rate = no prepayment penalty.
+Microfinance:    Small unsecured loans, often weekly/fortnightly repayment. RBI caps margins.
+Digital Loan:    Short tenure, online. Highest risk for hidden charges and data misuse.

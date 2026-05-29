@@ -1,0 +1,212 @@
+KNOWLEDGE BASE DOCUMENT 5
+SOURCE: Compiled from legal research, RBI guidelines, consumer protection frameworks, US HOEPA/CFPB standards, and Indian lending regulation literature
+PURPOSE: Reference glossary of predatory clauses and risky loan terms for document analysis
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+PREDATORY CLAUSE GLOSSARY & RISKY LOAN TERMS REFERENCE
+=======================================================================
+
+PART A: HIGH-RISK / PREDATORY CLAUSES (SEVERE — Flag Immediately)
+-------------------------------------------------------------------
+
+CLAUSE TYPE 1: MANDATORY ARBITRATION CLAUSE
+Definition: A clause that requires the borrower to resolve ALL disputes through private arbitration rather than through courts or consumer forums.
+Why Dangerous:
+- Removes borrower's right to approach consumer court, civil court, or banking ombudsman
+- Private arbitrators are often appointed or paid by the lender
+- Arbitration is expensive and complex for small borrowers
+- Class action suits become impossible
+Identification phrases:
+- "Any dispute shall be resolved exclusively through arbitration"
+- "Borrower waives right to court proceedings"
+- "Sole arbitrator appointed by the lender"
+- "Disputes to be settled under Arbitration and Conciliation Act exclusively"
+Fairness Assessment: HIGH RISK — deduct 15 points
+
+
+CLAUSE TYPE 2: WAIVER OF RIGHTS CLAUSE
+Definition: Borrower gives up (waives) fundamental legal rights such as right to notice, right to object, right to legal recourse.
+Why Dangerous:
+- Borrower may unknowingly surrender ability to challenge unfair actions
+- Can waive right to receive notice before collateral seizure
+- Can waive right to dispute errors in account statements
+Identification phrases:
+- "Borrower hereby irrevocably waives..."
+- "Borrower waives all defenses and objections"
+- "Right to notice is hereby waived"
+- "Borrower shall not raise any objection to..."
+Fairness Assessment: HIGH RISK — deduct 15-20 points
+
+
+CLAUSE TYPE 3: DYNAMIC / VARIABLE INTEREST RATE WITHOUT BENCHMARK
+Definition: Interest rate can change at the lender's discretion without being linked to a published benchmark.
+Why Dangerous:
+- Borrower has no way to predict or verify rate changes
+- Rate can be increased arbitrarily
+- Violates RBI EBLR mandate for retail/MSME floating rate loans
+Identification phrases:
+- "Interest rate shall be revised from time to time at the bank's discretion"
+- "Rate of interest is subject to change without notice"
+- "The applicable rate will be as determined by the lender"
+- No mention of any benchmark (Repo rate, MCLR, etc.)
+Fairness Assessment: HIGH RISK — deduct 20 points
+
+
+CLAUSE TYPE 4: BALLOON PAYMENT CLAUSE
+Definition: Most EMIs are small, but a very large final payment (balloon) is due at the end.
+Why Dangerous:
+- Borrower may not realise how much the final payment is
+- If unable to make balloon payment, all prior payments are lost
+- Creates refinancing trap — borrower forced to take a new loan
+Identification phrases:
+- "Final instalment of Rs. X [significantly larger than regular EMI]"
+- "Bullet payment due at end of term"
+- "Residual value payment at end of tenure"
+Fairness Assessment: HIGH RISK — deduct 15 points (if undisclosed or disproportionate)
+
+
+CLAUSE TYPE 5: CROSS-DEFAULT CLAUSE
+Definition: Default on ANY other obligation (even unrelated) automatically triggers default on THIS loan.
+Why Dangerous:
+- A missed credit card payment can trigger home loan default
+- Creates domino effect leading to property seizure
+- Often very broadly worded
+Identification phrases:
+- "Default on any other obligation to any lender shall constitute default hereunder"
+- "Cross-default provisions apply"
+- "Event of default includes default under any other agreement"
+Fairness Assessment: MODERATE-HIGH RISK — deduct 10-15 points
+
+
+CLAUSE TYPE 6: ACCELERATION CLAUSE (UNILATERAL)
+Definition: Lender can demand FULL IMMEDIATE repayment of entire outstanding loan at their sole discretion, without borrower fault.
+Why Dangerous:
+- Loan can be "called" by lender at any time
+- Borrower has no protection against this
+- Often triggered by lender discretion, not just borrower default
+Identification phrases:
+- "Lender may at its sole discretion call the entire outstanding immediately"
+- "The loan shall become immediately due and payable upon lender's demand"
+- "At lender's option, the entire loan becomes payable immediately"
+Fairness Assessment: HIGH RISK — deduct 15-20 points
+
+
+PART B: MODERATE-RISK CLAUSES (Flag and Assess)
+-------------------------------------------------
+
+CLAUSE TYPE 7: EXCESSIVE PREPAYMENT PENALTY
+Definition: A fee charged when borrower pays off loan before the scheduled end date.
+Context: Some prepayment penalty is normal. It becomes problematic when:
+- It applies throughout the loan tenure (no sunset period)
+- The penalty is more than 2-3% of outstanding principal
+- It applies even in the 4th, 5th year+ of the loan
+- It prevents refinancing to a better rate loan
+RBI Context: RBI has not banned prepayment charges entirely for all loans. For floating rate home loans and MSME loans: prepayment charges are prohibited per RBI rules.
+Identification phrases:
+- "Foreclosure charges of X% shall apply"
+- "Pre-payment penalty of X% of outstanding amount"
+- "Borrower shall not prepay without lender's prior consent"
+Fairness Assessment: MODERATE RISK — deduct 5-10 points depending on rate and tenure
+HIGH RISK if: Floating rate home/MSME loan with prepayment penalty — RBI violation
+
+
+CLAUSE TYPE 8: INSURANCE BUNDLING (FORCED)
+Definition: Lender mandates purchase of insurance (life, health, property) as condition of loan.
+Context: Insurance is not inherently bad, but becomes a problem when:
+- Premium is added to loan principal (you pay interest on insurance cost)
+- Lender-affiliated insurer is specified (conflict of interest)
+- Insurance cost is not included in APR/KFS calculation
+- Multiple insurance products are forced
+Identification phrases:
+- "Borrower must purchase [lender-specified] insurance as condition of loan"
+- "Insurance premium to be funded from loan proceeds"
+- "Loan protected by [lender's subsidiary] insurance"
+Fairness Assessment: MODERATE RISK — deduct 10-15 points if forced + not disclosed in APR
+
+
+CLAUSE TYPE 9: NEGATIVE AMORTIZATION
+Definition: Monthly payments are set lower than the interest that accrues, so the LOAN BALANCE GROWS even while making payments.
+Why Dangerous:
+- Borrower believes they are repaying but debt is actually increasing
+- Balance can grow to exceed original loan amount
+- Traps borrower in long-term debt spiral
+Identification phrases:
+- "Minimum payment option available"
+- "Deferred interest plan"
+- EMI amount that appears too low relative to loan size and tenor
+Mathematical check: If monthly EMI × tenure < loan amount × 1.5, check if negative amortization may apply.
+Fairness Assessment: HIGH RISK — deduct 25 points
+
+
+CLAUSE TYPE 10: UNILATERAL MODIFICATION RIGHTS
+Definition: Lender can change loan terms (fees, rates, conditions) without borrower consent.
+Why Dangerous:
+- After signing, terms can be changed adversely
+- Contradicts RBI KFS rules (charges not in KFS cannot be levied)
+Identification phrases:
+- "Lender reserves the right to amend these terms at any time"
+- "Terms and conditions may be revised at the bank's discretion"
+- "Borrower shall be deemed to have accepted any such changes unless they object within X days"
+Fairness Assessment: MODERATE RISK — deduct 10-15 points
+
+
+PART C: HIDDEN CHARGE RED FLAGS
+---------------------------------
+
+PROCESSING FEES:
+- Normal: 0.5% – 2% of loan amount (one-time)
+- Concerning: Above 3% of loan amount
+- Red flag: Not mentioned upfront; deducted from disbursed amount without disclosure
+
+DOCUMENTATION CHARGES:
+- Normal: Rs. 500 – Rs. 5,000 (flat)
+- Red flag: % of loan amount; not disclosed in KFS
+
+ACCOUNT MAINTENANCE CHARGES:
+- Normal: Nil or small flat annual fee
+- Red flag: Monthly charge % of outstanding balance
+
+INSPECTION/MONITORING FEES:
+- Normal: For secured business/property loans
+- Red flag: Annual % of loan amount for simple personal loans
+
+CONVERSION CHARGES:
+- When floating rate borrower wants to switch to fixed: Some fee is normal
+- Red flag: Very high conversion charge (>1% of outstanding) that prevents borrowers from exercising their rights
+
+PART D: LEGALLY SIGNIFICANT RED PHRASES (Extract These from Documents)
+------------------------------------------------------------------------
+The following phrases in any loan document should be immediately extracted and flagged:
+
+- "At the lender's sole discretion"
+- "Without notice to the borrower"
+- "Irrevocably waives"
+- "Including but not limited to" (in charge schedules — implies hidden charges)
+- "As may be amended from time to time" (in rate/charge clauses)
+- "Subject to applicable charges" (vague — what charges?)
+- "Lender may demand immediate repayment"
+- "Penal interest at X% per month" (old-style, now non-compliant post Jan 2024)
+- "Interest compounded on default charges" (non-compliant post Jan 2024)
+- "Sole arbitrator appointed by the bank"
+- "Class action waived"
+- "Governing law: [foreign jurisdiction]" (unusual in Indian retail loans)
+
+=======================================================================
+SCORING GUIDE SUMMARY
+=======================================================================
+
+Score deductions:
+Mandatory arbitration with no consumer forum recourse: -15
+Waiver of fundamental borrower rights: -15 to -20
+Floating rate with no benchmark disclosed: -20
+Balloon payment (undisclosed): -15
+Cross-default clause: -10 to -15
+Unilateral acceleration: -15 to -20
+Excessive prepayment penalty on floating rate loans: -10 to -15
+Forced insurance not in APR: -10 to -15
+Negative amortization terms: -25
+Unilateral modification rights: -10 to -15
+Old-style compounding penal interest: -15 to -25
+Hidden processing fee > 3%: -10
+No KFS / APR disclosure: -30

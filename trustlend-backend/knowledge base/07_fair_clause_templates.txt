@@ -1,0 +1,152 @@
+KNOWLEDGE BASE DOCUMENT 7
+SOURCE: Compiled standard fair lending agreement templates from Indian banking practice
+PURPOSE: Reference for what FAIR loan agreement clauses look like (positive examples and patterns)
+LAST UPDATED IN KB: May 2026
+
+=======================================================================
+FAIR LOAN AGREEMENT CLAUSES — REFERENCE TEMPLATES
+=======================================================================
+This document provides examples of FAIR, RBI-compliant loan agreement language.
+Use this as a comparison baseline when analysing actual loan documents.
+If an actual document deviates significantly from these templates, flag appropriately.
+
+
+SECTION 1: FAIR INTEREST RATE CLAUSE EXAMPLES
+----------------------------------------------
+
+EXAMPLE OF FAIR FLOATING RATE CLAUSE:
+"The rate of interest applicable to this loan shall be [Bank Name]'s One-Year MCLR as published from time to time, presently at [X]% per annum, plus a spread of [Y]%, giving an effective rate of [X+Y]% per annum. The rate shall be reset annually on the reset date specified in Schedule A. The borrower will be given 30 days advance notice of any change in the MCLR rate and its effect on EMI or tenure."
+
+WHY THIS IS FAIR:
+- Links to published benchmark (MCLR)
+- States current effective rate
+- Gives reset frequency
+- Provides advance notice commitment
+
+EXAMPLE OF FAIR FIXED RATE CLAUSE:
+"The rate of interest applicable to this loan is [X]% per annum (reducing balance basis) for the entire tenure of [Y] months. This rate will not change during the loan tenure unless agreed upon in writing by both parties."
+
+WHY THIS IS FAIR:
+- States method (reducing balance)
+- Provides certainty for entire tenure
+- Limits change to written mutual agreement
+
+EXAMPLE OF UNFAIR FLOATING RATE CLAUSE (FLAG THIS):
+"Interest will be charged at the prevailing rate as determined by the bank from time to time. The bank reserves the right to revise the rate without prior notice."
+
+WHY THIS IS UNFAIR:
+- No benchmark stated
+- Unilateral determination by lender
+- No notice requirement
+
+
+SECTION 2: FAIR PENAL CHARGES CLAUSE EXAMPLES (POST-2024)
+-----------------------------------------------------------
+
+EXAMPLE OF FAIR PENAL CHARGES CLAUSE (RBI 2023 Compliant):
+"In the event of non-payment of any EMI on the due date, a penal charge of Rs. [amount] per month (or part thereof) shall be levied on the overdue amount only, until the default is regularised. Penal charges shall not be capitalised and no further interest shall accrue on the penal charges. Total penal charges shall not exceed Rs. [cap amount] in any calendar month."
+
+WHY THIS IS FAIR:
+- Flat charge on overdue amount only
+- Not capitalised
+- Has a cap
+- Compliant with RBI August 2023 circular
+
+EXAMPLE OF UNFAIR PENAL CLAUSE (FLAG THIS — Pre-2024 style):
+"In case of default, the interest rate shall be increased by 2% per month (penal interest) on the entire outstanding loan balance. Such penal interest shall be compounded monthly."
+
+WHY THIS IS UNFAIR:
+- Adds to interest rate (not a separate charge)
+- Applied on entire outstanding balance (not just overdue amount)
+- Compounded — violates RBI 2023 circular
+
+
+SECTION 3: FAIR PREPAYMENT CLAUSE EXAMPLES
+--------------------------------------------
+
+EXAMPLE OF FAIR PREPAYMENT CLAUSE (Home Loan, Floating Rate):
+"There shall be no prepayment charges for this loan. The borrower may prepay the outstanding balance in part or full at any time without any penalty. [Required by RBI for floating rate individual home loans]"
+
+EXAMPLE OF FAIR PREPAYMENT CLAUSE (Fixed Rate Personal Loan):
+"The borrower may prepay this loan after completion of 12 months from disbursement, subject to a prepayment charge of 2% of the prepaid amount. No prepayment charges apply after 36 months from disbursement. Partial prepayment is allowed in multiples of Rs. 10,000."
+
+WHY THIS IS FAIR:
+- Clearly states the charge
+- Has a sunset (no charge after 36 months)
+- Partial prepayment allowed
+
+EXAMPLE OF UNFAIR PREPAYMENT CLAUSE (FLAG THIS):
+"Prepayment of the loan is not permitted without the prior written consent of the lender. In the event of prepayment, the borrower shall pay an amount equivalent to the total interest that would have accrued for the remaining tenure of the loan."
+
+WHY THIS IS UNFAIR:
+- Requires lender permission
+- Penalty = full future interest = essentially no benefit to prepaying
+
+
+SECTION 4: FAIR GRIEVANCE REDRESSAL CLAUSE
+-------------------------------------------
+
+EXAMPLE OF FAIR GRIEVANCE CLAUSE:
+"Any grievance or complaint relating to this loan may be addressed to:
+Grievance Redressal Officer: [Name and Designation]
+Address: [Full address]
+Email: [email] | Phone: [number]
+
+The lender shall acknowledge the complaint within 2 business days and resolve it within 30 days. If unresolved, the borrower may escalate to:
+Banking Ombudsman, Reserve Bank of India — [relevant office]
+RBI Ombudsman (Integrated): https://cms.rbi.org.in"
+
+WHY THIS IS FAIR:
+- Named contact person
+- Defined resolution timeline
+- Clear escalation path to RBI
+
+
+SECTION 5: FAIR SECURITY AND FORECLOSURE CLAUSE
+-------------------------------------------------
+
+EXAMPLE OF FAIR SECURITY CLAUSE:
+"Upon full repayment of all amounts due under this agreement, the lender shall release all securities held within 30 days and return all original documents to the borrower without any additional charges."
+
+WHY THIS IS FAIR:
+- Specific timeline for release (30 days)
+- No additional charges for return
+- Borrower knows what to expect
+
+EXAMPLE OF UNFAIR SECURITY CLAUSE (FLAG THIS):
+"The lender shall retain the right over security even after full repayment until the lender is satisfied that no future claims exist. Documents shall be returned at the lender's convenience."
+
+WHY THIS IS UNFAIR:
+- Indefinite retention
+- "Lender's convenience" — no timeline
+- Violates RBI Fair Practices Code Section 4.3
+
+
+SECTION 6: WHAT A COMPLETE FAIR KFS SHOULD LOOK LIKE
+------------------------------------------------------
+
+A fair KFS summary box at the start of the loan agreement should contain:
+
+┌─────────────────────────────────────────────────────────┐
+│ KEY FACT STATEMENT                                       │
+├─────────────────────────────────────────────────────────┤
+│ Loan Type:          Personal Loan / Home Loan / etc.    │
+│ Loan Amount:        Rs. X                                │
+│ Tenure:             XX months                            │
+│ Interest Rate:      X.XX% p.a. [Fixed/Floating]         │
+│ EMI:                Rs. X per month                      │
+│ Processing Fee:     Rs. X (one-time, non-refundable)     │
+│ Insurance Premium:  Rs. X [if applicable]                │
+│ Other Charges:      Rs. X [itemised]                     │
+│ Annual Percentage   X.XX% (All-inclusive cost of credit) │
+│ Rate (APR):                                              │
+│ Prepayment:         Allowed / Charges: X%                │
+│ Penal Charges:      Rs. X per month on overdue amount    │
+│ Cooling Off Period: X days from signing                  │
+│ Grievance Officer:  [Name], [Contact]                    │
+│ RBI Ombudsman:      cms.rbi.org.in                       │
+└─────────────────────────────────────────────────────────┘
+
+If a document is missing this KFS box entirely: HIGH RISK.
+If a document has this box but APR is missing: MODERATE RISK.
+If APR is present and all charges are listed: FAIR.
