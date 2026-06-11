@@ -43,6 +43,7 @@ export default function Navbar() {
                 <div style={{ display: 'flex', gap: '0.25rem', alignItems: 'center' }}>
                     {navLink('/analyze', 'Analyze')}
                     {navLink('/compare', 'Compare')}
+                    {navLink('/chat',    'Ask Loan')}
 
                     <button
                         onClick={toggleTheme}

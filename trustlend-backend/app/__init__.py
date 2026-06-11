@@ -8,13 +8,15 @@ def create_app(config_name='default'):
 
     CORS(app)
 
-    # Existing blueprint
+    # Blueprints
     from app.routes.analyze import analyze_bp
     app.register_blueprint(analyze_bp, url_prefix='/api')
 
-    # New: comparison blueprint
     from app.routes.compare import compare_bp
     app.register_blueprint(compare_bp, url_prefix='/api')
+
+    from app.routes.chat import chat_bp
+    app.register_blueprint(chat_bp, url_prefix='/api')
 
     @app.route('/health')
     def health_check():
