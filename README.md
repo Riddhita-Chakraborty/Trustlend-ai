@@ -1,6 +1,6 @@
 # TrustLend
 
-TrustLend is an AI-powered loan document analyzer that helps users detect hidden charges, risky clauses, and unfair terms before they sign.
+TrustLend is an AI-powered document analyzer that helps users detect hidden charges, risky clauses, and unfair terms before they sign.
 
 ## Features
 - **OCR Engine**: Extracts text from scanned PDFs and images.
